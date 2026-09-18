@@ -1,4 +1,4 @@
-# LangGraph Tutorial 02: Invoice & Receipt Audit / Reconciliation Assistant
+# LangGraph-based Invoice & Receipt Audit / Reconciliation Assistant
 
 A production-shaped, end-to-end example of a **document-processing agentic
 workflow with a mandatory human-in-the-loop gate**, built with
